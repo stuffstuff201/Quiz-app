@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Hauptstadt von Polen?",
+    "option": [
+      "Krakau",
+      "Warschau",
+      "Danzig",
+      "Breslau"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Deutschland?",
+    "option": [
+      "Hamburg",
+      "Berlin",
+      "München",
+      "Köln"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Frankreich?",
+    "option": [
+      "Lyon",
+      "Paris",
+      "Marseille",
+      "Toulouse"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Spanien?",
+    "option": [
+      "Barcelona",
+      "Madrid",
+      "Sevilla",
+      "Valencia"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Italien?",
+    "option": [
+      "Mailand",
+      "Rom",
+      "Neapel",
+      "Turin"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Portugal?",
+    "option": [
+      "Porto",
+      "Lissabon",
+      "Faro",
+      "Coimbra"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Niederlande?",
+    "option": [
+      "Rotterdam",
+      "Amsterdam",
+      "Den Haag",
+      "Utrecht"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Belgien?",
+    "option": [
+      "Antwerpen",
+      "Brüssel",
+      "Brügge",
+      "Gent"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Österreich?",
+    "option": [
+      "Salzburg",
+      "Wien",
+      "Innsbruck",
+      "Graz"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Schweiz?",
+    "option": [
+      "Zürich",
+      "Bern",
+      "Genf",
+      "Lausanne"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Tschechien?",
+    "option": [
+      "Brünn",
+      "Prag",
+      "Pilsen",
+      "Ostrava"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Ungarn?",
+    "option": [
+      "Debrecen",
+      "Budapest",
+      "Szeged",
+      "Pécs"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Slowakei?",
+    "option": [
+      "Kosice",
+      "Bratislava",
+      "Nitra",
+      "Trnava"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Slowenien?",
+    "option": [
+      "Maribor",
+      "Ljubljana",
+      "Celje",
+      "Koper"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Kroatien?",
+    "option": [
+      "Split",
+      "Zagreb",
+      "Rijeka",
+      "Osijek"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Serbien?",
+    "option": [
+      "Novi Sad",
+      "Belgrad",
+      "Niš",
+      "Kragujevac"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Bulgarien?",
+    "option": [
+      "Plowdiw",
+      "Sofia",
+      "Warna",
+      "Burgas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Rumänien?",
+    "option": [
+      "Cluj",
+      "Bukarest",
+      "Timișoara",
+      "Iași"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Griechenland?",
+    "option": [
+      "Thessaloniki",
+      "Athen",
+      "Heraklion",
+      "Patras"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Türkei?",
+    "option": [
+      "Izmir",
+      "Ankara",
+      "Istanbul",
+      "Antalya"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Norwegen?",
+    "option": [
+      "Bergen",
+      "Oslo",
+      "Stavanger",
+      "Trondheim"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Schweden?",
+    "option": [
+      "Göteborg",
+      "Stockholm",
+      "Malmö",
+      "Uppsala"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Finnland?",
+    "option": [
+      "Tampere",
+      "Helsinki",
+      "Turku",
+      "Oulu"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Dänemark?",
+    "option": [
+      "Aarhus",
+      "Kopenhagen",
+      "Odense",
+      "Aalborg"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Island?",
+    "option": [
+      "Akureyri",
+      "Reykjavik",
+      "Selfoss",
+      "Keflavik"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Irland?",
+    "option": [
+      "Cork",
+      "Dublin",
+      "Limerick",
+      "Galway"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Großbritannien?",
+    "option": [
+      "Manchester",
+      "London",
+      "Birmingham",
+      "Leeds"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von USA?",
+    "option": [
+      "New York",
+      "Washington, D.C.",
+      "Los Angeles",
+      "Chicago"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Kanada?",
+    "option": [
+      "Toronto",
+      "Ottawa",
+      "Vancouver",
+      "Montreal"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Mexiko?",
+    "option": [
+      "Guadalajara",
+      "Mexiko-Stadt",
+      "Monterrey",
+      "Puebla"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Brasilien?",
+    "option": [
+      "Rio de Janeiro",
+      "Brasília",
+      "São Paulo",
+      "Salvador"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Argentinien?",
+    "option": [
+      "Córdoba",
+      "Buenos Aires",
+      "Rosario",
+      "Mendoza"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Chile?",
+    "option": [
+      "Valparaíso",
+      "Santiago",
+      "Concepción",
+      "La Serena"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Peru?",
+    "option": [
+      "Cusco",
+      "Lima",
+      "Arequipa",
+      "Trujillo"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Kolumbien?",
+    "option": [
+      "Medellín",
+      "Bogotá",
+      "Cali",
+      "Barranquilla"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Venezuela?",
+    "option": [
+      "Maracaibo",
+      "Caracas",
+      "Valencia",
+      "Barquisimeto"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Australien?",
+    "option": [
+      "Sydney",
+      "Canberra",
+      "Melbourne",
+      "Brisbane"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Neuseeland?",
+    "option": [
+      "Christchurch",
+      "Wellington",
+      "Auckland",
+      "Hamilton"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von China?",
+    "option": [
+      "Shanghai",
+      "Peking",
+      "Guangzhou",
+      "Shenzhen"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Japan?",
+    "option": [
+      "Osaka",
+      "Tokio",
+      "Kyoto",
+      "Hiroshima"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Südkorea?",
+    "option": [
+      "Busan",
+      "Seoul",
+      "Incheon",
+      "Daegu"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Indien?",
+    "option": [
+      "Mumbai",
+      "Neu-Delhi",
+      "Bangalore",
+      "Kalkutta"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Pakistan?",
+    "option": [
+      "Karachi",
+      "Islamabad",
+      "Lahore",
+      "Rawalpindi"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Bangladesch?",
+    "option": [
+      "Chittagong",
+      "Dhaka",
+      "Khulna",
+      "Rajshahi"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Thailand?",
+    "option": [
+      "Chiang Mai",
+      "Bangkok",
+      "Phuket",
+      "Pattaya"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Vietnam?",
+    "option": [
+      "Ho-Chi-Minh-Stadt",
+      "Hanoi",
+      "Da Nang",
+      "Hue"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Malaysia?",
+    "option": [
+      "Johor Bahru",
+      "Kuala Lumpur",
+      "Penang",
+      "Kuching"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Indonesien?",
+    "option": [
+      "Surabaya",
+      "Jakarta",
+      "Bandung",
+      "Medan"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Philippinen?",
+    "option": [
+      "Cebu",
+      "Manila",
+      "Davao",
+      "Quezon City"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hauptstadt von Südafrika?",
+    "option": [
+      "Kapstadt",
+      "Pretoria",
+      "Durban",
+      "Johannesburg"
+    ],
+    "answer": 1
+  }
+]

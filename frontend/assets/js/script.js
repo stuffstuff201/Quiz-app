@@ -1,5 +1,5 @@
 async function loadQuestions() {
-  const response = await fetch("assets/js/json/hauptstaedte_fragen.json");
+  const response = await fetch("assets/js/json/hauptstaedte_fragen_gemischt.json");
   const questions = await response.json();
   return questions;
 }
@@ -9,6 +9,7 @@ const questionP = document.createElement("p");
 questionP.id = "questionP";
 const buttonStart = document.getElementById("buttonStart");
 let score = 0;
+let running = false;
 
 const questionsAnswers = await loadQuestions();
 startSite();
@@ -16,6 +17,7 @@ startSite();
 function startSite() {
   buttonStart.addEventListener("click", () => {
     score = 0;
+    running = true;
     questionBody.innerHTML = "";
     showQuestion();
     buttons();
@@ -26,6 +28,7 @@ function startSite() {
 function showQuestion() {
   questionP.innerHTML = questionsAnswers[score].question;
   questionBody.appendChild(questionP);
+  scoreShow();
 }
 
 function buttons() {
@@ -50,7 +53,9 @@ function compare(playerChoice) {
     alert("right!");
     nextQuestion();
   } else {
-    questionP.innerHTML = "Game Over! Better luck next time!";
+    questionP.innerHTML = "Game Over! Better luck next time!<br>";
+    running = false;
+    endScreen();
     buttonRemove();
     score = 0;
   }
@@ -67,6 +72,7 @@ function nextQuestion() {
     return;
   }
   questionP.innerHTML = questionsAnswers[score].question;
+  scoreShow();
   buttonRemove();
   buttons();
 }
@@ -79,6 +85,12 @@ function buttonRemove() {
 }
 
 function endScreen() {
-  questionP.innerHTML = "Your Final Score is: " + score;
+  questionP.innerHTML += "Your Final Score is: " + score + "/" + questionsAnswers.length;
   buttonRemove();
+}
+
+function scoreShow() {
+  if(running){
+    questionP.innerHTML += `<br> Your Score: ${score}/${questionsAnswers.length}`;
+  }
 }
